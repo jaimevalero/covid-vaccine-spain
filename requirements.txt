@@ -1,0 +1,5 @@
+odfpy
+panda
+tqdm
+scipy
+pyjanitor
