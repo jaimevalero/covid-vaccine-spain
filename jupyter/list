@@ -1,0 +1,40 @@
+lenguajes de marcado:
+  - JSON
+  - XML
+  - YAML
+  - csv
+Bases de datos
+  - SQL (Datos tabulares)
+  - NO SQLj
+  - Series Temporales
+Conversion de datos
+  - Templates
+Lenguajes de programacion
+  - python
+  - shell script 
+    - jq
+Bases de datos
+  - Mysql,
+    - SELECT , FROM , WHERE, JOIN IN
+  - SQLite
+Lenguajes de template
+  - Jinja
+Api
+  - curl
+  - Rest
+HTML:
+  - Javascript
+  - BootStrap
+Código fuentes:
+  - Github
+Containers:
+  - Docker , compose
+Redes: 
+  - Ip,puerto registros DNS, SSH
+SO: 
+  - Usuarios, ficheros, sudo , cat, install, logs
+Principios lenguajes de programacion
+  - if else , for , while
+
+
+

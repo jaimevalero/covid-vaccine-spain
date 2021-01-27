@@ -3,3 +3,4 @@ panda
 tqdm
 scipy
 pyjanitor
+beautifulsoup4
